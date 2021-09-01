@@ -1,3 +1,5 @@
 ### Olá, eu sou iihdave  👋
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<div style= "display inline-block"><br>
+<image align "right" alt="dav-gif" src"https://cdn.discordapp.com/attachments/882582293816938526/882600057797496912/hello_guys.gif">
+</div>
