@@ -1,8 +1,8 @@
 ## Olá, eu sou David Silva  👋
 <div>
  <a href="https://github.com/iihDave">
- <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=iihdave&show_icons=true&theme=bear"/>
- <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iihdave&layout=compact&langs_count=16&theme=bear"/>
+ <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=iihdave&show_icons=true&theme=outrun"/>
+ <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iihdave&layout=compact&langs_count=16&theme=outrun"/>
 </div>
 
 <div style= "display inline-block"><br>
